@@ -1,7 +1,7 @@
 <?php 
 /**
  * Plugin Name: Gallery Shoppable
- * Plugin URI: https://my-awesomeness-emporium.com
+ * Plugin URI: #
  * description: a plugin to create gallery awesomeness for your store.
  * Version: 1.0.0
  * Author: Mike
